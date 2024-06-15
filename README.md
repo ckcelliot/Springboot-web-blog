@@ -4,7 +4,7 @@
 1. Java Core
 2. Spring Boot
 3. Thymeleaf
-4. MySql
+4. MySQL
 5. Bootstrap
 
 ## Concepts Covered
